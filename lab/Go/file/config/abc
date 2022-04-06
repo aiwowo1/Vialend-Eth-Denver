@@ -1,8 +1,0 @@
-{
-	"ActiveNetworkId": 0,
-	"Host": {
-		"NetworkId": 0,
-		"HTTP": "http://localhost",
-		"WS": "ws://localhost"
-	}
-}
